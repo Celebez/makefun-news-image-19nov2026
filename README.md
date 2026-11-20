@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261119/Celebez/makefun-news-image-19nov2026/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/Celebez/makefun-news-image-19nov2026/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-A one-page world-news front page for Thursday, 19 November 2026: 40 attributed stories across six continents, with a prominent date, a single lead story and original code-drawn illustration. The image is self-contained; its small offline entrypoint validates and copies the PNG.
+A one-page world-news front page for Thursday, 19 November 2026: 40 attributed stories across six continents, with a prominent date, three readable leads and 15 original event-specific editorial illustrations. The image is self-contained; its small offline entrypoint validates and copies the PNG.
 
 ## Run it
 
