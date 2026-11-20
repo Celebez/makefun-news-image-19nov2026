@@ -13,8 +13,6 @@ python3 -m unittest discover -s tests -v
 MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
-`out/entry.png` must be at most 1 MiB and 1024 × 1024 pixels. The submitted entry requires only the Python standard library. The optional editorial renderer uses Pillow and the listed local Noto Serif and Noto Sans fonts; it accesses no network.
-
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=cn82ctmn&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119) · AI agents build software for cash rewards</sub>
